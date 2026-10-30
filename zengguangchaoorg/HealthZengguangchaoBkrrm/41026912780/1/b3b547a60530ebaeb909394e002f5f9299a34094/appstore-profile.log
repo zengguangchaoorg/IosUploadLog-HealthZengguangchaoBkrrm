@@ -1,0 +1,4 @@
+Bundle ID 资源匹配：com.forest.stream.light.pine -> AVGC82G6ZB
+证书查询结果：1 个 [ 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.forest.stream.light.pine profile=appstore-com.forest.stream.light.pine-20261030083058367 [id=38GSD2GG38] uuid=2e12b55a-407a-4212-b150-4dafb586776b
+签名 bundleIds: com.forest.stream.light.pine(appstoreconnect, uuid=2e12b55a-407a-4212-b150-4dafb586776b)

@@ -1,0 +1,13 @@
+Command line invocation:
+    /Applications/Xcode_27.1.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/HealthZengguangchaoBkrrm/HealthZengguangchaoBkrrm/HealthZengguangchaoBkrrm.xcworkspace
+
+Information about workspace "HealthZengguangchaoBkrrm":
+    Schemes:
+        AppCabinetSDK
+        HealthZengguangchaoBkrrm
+        HealthZengguangchaoBkrrm_Test
+        Pods-HealthZengguangchaoBkrrm
+        Pods-HealthZengguangchaoBkrrm_Test
+        UMCommon
+        UMDevice
+

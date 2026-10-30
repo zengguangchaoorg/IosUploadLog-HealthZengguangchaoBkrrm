@@ -1,0 +1,5 @@
+已更新 TargetAttributes 手动签名 target=1
+已更新签名配置：com.forest.stream.light.pine(2)；手动签名 target=1；项目级清理=0；xcconfig=0
+手动签名校验通过：
+target=HealthZengguangchaoBkrrm config=Debug bundleId=com.forest.stream.light.pine profileUuid=2e12b55a-407a-4212-b150-4dafb586776b profileName=appstore-com.forest.stream.light.pine-20261030083058367 team=A8ND3TU3SF identity=Apple Distribution: LEADING CULTURE TECHNOLOGY CO. LIMITED (A8ND3TU3SF)
+target=HealthZengguangchaoBkrrm config=Release bundleId=com.forest.stream.light.pine profileUuid=2e12b55a-407a-4212-b150-4dafb586776b profileName=appstore-com.forest.stream.light.pine-20261030083058367 team=A8ND3TU3SF identity=Apple Distribution: LEADING CULTURE TECHNOLOGY CO. LIMITED (A8ND3TU3SF)

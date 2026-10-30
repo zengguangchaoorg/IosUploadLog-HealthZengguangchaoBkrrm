@@ -1,0 +1,1 @@
+/Users/runner/work/HealthZengguangchaoBkrrm/HealthZengguangchaoBkrrm/HealthZengguangchaoBkrrm.xcodeproj: error: Provisioning profile "appstore-com.forest.stream.light.pine-20261030083058367" doesn't include the com.apple.developer.healthkit and com.apple.developer.healthkit.access entitlements. (in target 'HealthZengguangchaoBkrrm' from project 'HealthZengguangchaoBkrrm')
